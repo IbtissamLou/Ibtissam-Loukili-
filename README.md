@@ -2,7 +2,7 @@
 **Data Scientist | Machine Learning Engineer**  
 Based in Palaiseau, France · Open to Data Scientist roles starting **September 2025**
 
-I build end-to-end ML systems (from data engineering and modeling to deployment and monitoring). I enjoy applying machine learning to create data-driven solutions across different sectors, and I’m curious about exploring diverse real-world applications.
+- I build end-to-end ML systems (from data engineering and modeling to deployment and monitoring). I enjoy applying machine learning to create data-driven solutions across different sectors, and I’m curious about exploring diverse real-world applications.
 ---
 
 ## 🔭 Spotlight projects
