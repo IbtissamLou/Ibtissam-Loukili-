@@ -10,8 +10,7 @@ Based in ILE-DE-FRANCE, France · Open to Data Scientist roles starting **Septem
 - **[NBA Player Longevity Predictor](https://github.com/IbtissamLou/nba-player-longevity.git)** — Classification pipeline (XGBoost, Balanced RF), Optuna hyperparameter tuning, MLOps pipeline with Docker + FastAPI, CI/CD and monitoring.
 - **[Machine Learning Pipeline for Pediatric Bone Marrow Transplant Survival Prediction](https://github.com/IbtissamLou/Patient_survival_status_ML_Pipeline.git)** -- Built an end-to-end machine learning pipeline using the UCI Pediatric Bone Marrow Transplantation dataset.
 - **Energy Consumption Modeling (Groupe Atlantic × ENSAI)** — Customer consumption analysis and forecasting using Ridge/LASSO, Random Forest, Gradient Boosting; model interpretation with SHAP. 
-- **Real Estate Listings Manager** — Automated scraping + PostgreSQL DAOs, REST API, filters & market-trend analysis.   
-- **Synthetic Load Curves Evaluation (EDF R&D)** — Evaluated GAN-generated electrical load curves; models/architectures: 1D CNN, TCN, PatchTST; added contextual features and comparative evaluation framework. 
+- **[Real Estate Listings Manager](https://github.com/IbtissamLou/Real-Estate-Listings-Manager.git)** — Automated scraping + PostgreSQL DAOs, REST API, filters & market-trend analysis. - **Synthetic Load Curves Evaluation (EDF R&D)** — Evaluated GAN-generated electrical load curves; models/architectures: 1D CNN, TCN, PatchTST; added contextual features and comparative evaluation framework. 
 - **Interactive Statistical Analysis Tool (IFF)** — Python Dash app for exploratory analysis of olfactory profiles. 
 
 ---
