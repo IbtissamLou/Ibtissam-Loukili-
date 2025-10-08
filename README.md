@@ -7,8 +7,7 @@ Based in ILE-DE-FRANCE, France · Open to Data Scientist roles starting **Octobe
 
 ## 🔭 Spotlight projects 
 
--**🩺Healthcare Knowledge Assistant with RAG and Agentic AI (Llama 3, Chroma, Streamlit)** - Integrated Llama 3 and ChromaDB for semantic search and synthesis of reliable medical information, Built an interactive Streamlit interface for querying and visualizing medical insights.
-
+- **🩺Healthcare Knowledge Assistant with RAG and Agentic AI (Llama 3, Chroma, Streamlit)** - Integrated Llama 3 and ChromaDB for semantic search and synthesis of reliable medical information, Built an interactive Streamlit interface for querying and visualizing medical insights.
 - **🏀[NBA Player Longevity Predictor](https://github.com/IbtissamLou/nba-player-longevity.git)** — Classification pipeline (XGBoost, Balanced RF), Optuna hyperparameter tuning, MLOps pipeline with Docker + FastAPI, CI/CD and monitoring.
 - **🩺[Machine Learning Pipeline for Pediatric Bone Marrow Transplant Survival Prediction](https://github.com/IbtissamLou/Patient_survival_status_ML_Pipeline.git)** -- Built an end-to-end machine learning pipeline using the UCI Pediatric Bone Marrow Transplantation dataset.
 - **🔋Energy Consumption Modeling (Groupe Atlantic × ENSAI)** — Customer consumption analysis and forecasting using Ridge/LASSO, Random Forest, Gradient Boosting; model interpretation with SHAP. 
