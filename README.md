@@ -1,6 +1,6 @@
 # Hi — I’m Ibtissam Loukili 👋
-**Data Scientist | Machine Learning Engineer**  
-Based in ILE-DE-FRANCE, France · Open to Data Scientist roles starting **October 2025**
+**AI & Machine Learning Engineer | Data Scientist**  
+Based in ILE-DE-FRANCE, France · Open to AI & ML Engineer | Data Scientist | NLP & Generative AI | Analytics & MLOps roles starting **January 2026**
 
 - I build end-to-end ML systems (from data engineering and modeling to deployment and monitoring). I enjoy applying machine learning to create data-driven solutions across different sectors, and I’m curious about exploring diverse real-world applications.
 ---
@@ -27,14 +27,14 @@ Based in ILE-DE-FRANCE, France · Open to Data Scientist roles starting **Octobe
 ---
 
 ## 💼 Experience 
-- **Data Scientist Intern — EDF R&D (Paris-Saclay)** — Evaluated synthetic electricity load curves & improved data enrichment for forecasting models.  
+- **ML Engineer Intern — EDF R&D (Paris-Saclay)** — Evaluated synthetic electricity load curves & improved data enrichment for forecasting models.  
 - **Data Scientist Intern — IFF** — Built interactive Dash analytics tool and proposed new ML-based analyses.
 
 ---
 
 ## 🎓 Education
-- **Diplôme d’ingénieur — Data Science**, ENSAI (Rennes), Sept 2021 — Dec 2024  
-- **Cycle préparatoire — Data Science & Cloud**, ENSA (Morocco), Sept 2018 — June 2021
+- **Engineering Degree in Data Science**, ENSAI (Rennes), Sept 2021 — 2025  
+- **Integrated Engineering Preparatory Cycle**, ENSA (Morocco), Sept 2018 — 2021
 
 ---
 
